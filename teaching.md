@@ -4,29 +4,32 @@ permalink: "/teaching/"
 layout: page
 ---
 
-# Language Acquistion (Primary instructor)
+
+# Primary Instructor
+
+**Language Acquistion**
 - Université Paris Cité (former Paris Diderot)
 - graduate level, Spring 2023
 
 
-# Morphologie et Syntaxe du Français Langue Etrangère (Primaru instructor)
+**Morphologie et Syntaxe du Français Langue Etrangère**
 - Université Paris Cité (former Paris Diderot)
 - undergrad level, Spring 2023
 
-# Humanités Numériques – Digital Humanities (Primary instructor)
+**Humanités Numériques – Digital Humanities**
 - Université Sorbonne Nouvelle, ENEAD
 - online class, Fall 2022, Spring 2023
 
-# Langues dans le Monde -  Typology (Primary instructor)
+**Langues dans le Monde (Language Typology)**
 - Université Paris Cité (former Paris Diderot)
 - undergrad level, Spring 2014, 2015
 
+# Teaching Assistant
 
-
-# Phonology (TA)
+**Phonology**
 - Université Paris Cité (former Paris Diderot)
 - graduate level, Fall 2017
 
-# Initiation à la Linguistique générale (TA)
+**Initiation à la Linguistique générale**
 - Université Paris Cité (former Paris Diderot)
 - undergrad level, Fall 2014, 2015, 2017
