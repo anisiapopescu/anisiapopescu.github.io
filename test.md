@@ -3,9 +3,8 @@ title: "test
 layout: page
 ---
 
-# My Blog
 
-Welcome to my blog! Here are some posts:
 
-- [Liquid consonants](liquids.md) - *This is a short description of Post 1. [Read More](liquids.md)*
-- [Acquisition](acquisition.md) - *This is a short description of Post 2. [Read More](acquisition.md)*
+- ## [Liquid consonants: the gateway between vowels and consonants](liquids.md)
+- ## [Using Speech Technology to test phonological theories](TAL.md)
+- ## [Language Acquisition](acquisition.md) 
