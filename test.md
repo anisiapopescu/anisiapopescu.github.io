@@ -3,8 +3,10 @@ title: "test
 layout: page
 ---
 
+<link rel="stylesheet" type="text/css" href="btnstyle.css">
 
+- ## Liquid consonants: the gateway between vowels and consonants
+  [Read More](liquids.md){: .btn}
 
-- ## [Liquid consonants: the gateway between vowels and consonants](liquids.md)
-- ## [Using Speech Technology to test phonological theories](TAL.md)
-- ## [Language Acquisition](acquisition.md) 
+- ## Language Acquisition
+  [Read More](acquisition.md){: .btn}
