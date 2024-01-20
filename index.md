@@ -10,7 +10,7 @@ layout: page
 My research uses a synergistic approach between laboratory phonology and automatic language processing to investigate the nature of speech production and cognitive representation units. I focus on the timing of gestural coordination patterns,
 acoustic-articulatory relations and the cognitive representation of phonological and prosodic units. From a developmental perspective, I am interested in speech production in children, specifically how speech production interacts with segmental representation 
 through metalinguistic skills such as reading proficiency.</p>
-    <img src="img_site.jpg" alt="Your Image" style="width: 50%; margin-left: 20px;">
+    <img src="fig_site.jpg" alt="Your Image" style="width: 50%; margin-left: 20px;">
 </div>
 
 
