@@ -1,7 +1,6 @@
 ---
-title: "About"
-permalink: "/about/"
-layout: page
+title: "Project"
+layout: post
 ---
 
 ## Liquid consonants: the gateway between vowels and consonants
