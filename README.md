@@ -25,7 +25,7 @@ corpora and automatic alignment with pronunciation variants. [Popescu et al., 20
 
 **Phonetic typology**
 The present study tests whether voicing in Europeant Portuguese (EP) fricatives diverges from its sister languages by using empirically motivated combinations of different languages
-(EP, Italian, German) acoustic phone models on large EP corpora, allowing an ASR system to choose the best fitting one when force aligning the data. [prerpint Popescu, Lamel & Vasilescu, 2023](Popescu_Lamel_Vasilescu_ICNLSP2023.pdf)
+(EP, Italian, German) acoustic phone models on large EP corpora, allowing an ASR system to choose the best fitting one when force aligning the data. [preprint Popescu, Lamel & Vasilescu, 2023](Popescu_Lamel_Vasilescu_ICNLSP2023.pdf)
 
 
 ## Language acquisition 
