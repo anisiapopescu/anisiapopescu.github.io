@@ -7,7 +7,7 @@ layout: page
 
 <div style="display: flex; align-items: center;">
     <img src="https://raw.githubusercontent.com/anisiapopescu/anisiapopescu.github.io/master/ROI_site.png" alt="Your Image" style="width: 50%; margin-right: 20px;">
-    <p>This study investigates whether tongue narrowing correlates over time with the unfolding coronal and uvular constriction in English laterals, using multi-slice rtMRI imaging (mid-saggital and axial slices). <a href="https://raw.githubusercontent.com/anisiapopescu/anisiapopescu.github.io/master/Popescu_etal2022_Labphon18.pdf" target="_blank">abstract</a>.</p>
+    <p>This study investigates whether tongue narrowing correlates over time with the unfolding coronal and uvular constriction in English laterals, using multi-slice rtMRI imaging (mid-saggital and axial slices). <a href="https://raw.githubusercontent.com/anisiapopescu/anisiapopescu.github.io/master/Popescu_etal2022_Labphon18.pdf" target="_self">abstract</a>.</p>
 </div>
 
 ## Gestural timing of liquid rimes
