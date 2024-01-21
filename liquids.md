@@ -11,7 +11,7 @@ layout: page
 </div>
 
 
- [abstract](Popescu_etal2022_Labphon18.pdf){:target="_blank"}
+More details here: [abstract](Popescu_etal2022_Labphon18.pdf){:target="_blank"}
 
 
 
@@ -26,5 +26,8 @@ layout: page
 
 <div style="display: flex; align-items: center;">
     <img src="https://raw.githubusercontent.com/anisiapopescu/anisiapopescu.github.io/master/sequi_site.jpg" alt="Your Image" style="width: 50%; margin-right: 20px;">
-    <p>Sesquisyllables - words involving tense vowels or diphthongs followed by a liquid consonant (feel, file, pier, pyre) - receive variable syllable count judgments (non monosyllabic) from native speakers. This project investigates the reasons behind the variation in syllable weight perception and the hypothesis that syllable count judgments are related to subsegmental representations in the rime, and in particular to the gestural specification of coda liquids. (<a href="https://raw.githubusercontent.com/anisiapopescu/anisiapopescu.github.io/master/CLS54_Proceedings.pdf" target="_blank"> Popescu, 2019 </a>, <a href="https://www.journal-labphon.org/article/id/7681/" target="_blank">Popescu & Chitoran, 2022</a>.</p>
+    <p>Sesquisyllables - words involving tense vowels or diphthongs followed by a liquid consonant (feel, file, pier, pyre) - receive variable syllable count judgments (non monosyllabic) from native speakers. This project investigates the reasons behind the variation in syllable weight perception and the hypothesis that syllable count judgments are related to subsegmental representations in the rime, and in particular to the gestural specification of coda liquids.</p>
 </div>
+
+More details here: [Popescu, 2019](CLS54_Proceedings.pdf){:target="_blank"}, [Popescu & Chitoran, 2022](https://www.journal-labphon.org/article/id/7681/){:target="_blank"}
+
