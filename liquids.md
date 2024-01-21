@@ -10,9 +10,9 @@ layout: page
     <p>This study investigates whether tongue narrowing correlates over time with the unfolding coronal and uvular constriction in English laterals, using multi-slice rtMRI imaging (mid-saggital and axial slices).</p>
 </div>
 
-<div style="text-align: right;">
-    [abstract](Popescu_etal2022_Labphon18.pdf){:target="_blank"}
-</div>
+
+ [abstract](Popescu_etal2022_Labphon18.pdf){:target="_blank"}
+
 
 
 ## Gestural timing of liquid rimes
