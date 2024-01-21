@@ -13,7 +13,7 @@ corpora and automatic alignment with pronunciation variants. <a href="https://ra
 </div>
 
 
- <a href="https://raw.githubusercontent.com/anisiapopescu/anisiapopescu.github.io/master/Popescu_Lamel_Vasilescu_ICNLSP2023.pdf" target="_blank">preprint Popescu, Lamel & Vasilescu, 2023</a>
+
 ## Phonetic typology
 
 <div style="display: flex; align-items: center;">
