@@ -36,7 +36,7 @@ More details here: [Popescu, 2019](CLS54_Proceedings.pdf){:target="_blank"}, [Po
 ## Acoustic-Articulatory Relations
 
 <div style="display: flex; align-items: center;">
-    <img src="https://raw.githubusercontent.com/anisiapopescu/anisiapopescu.github.io/master/sequi_site.jpg" alt="Your Image" style="width: 50%; margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/anisiapopescu/anisiapopescu.github.io/master/cleardark.png" alt="Your Image" style="width: 50%; margin-right: 20px;">
     <p>American English exhibits two lateral allophones: clear /l/ in onset position and dark /l/ in coda position. F3 is known to show higher values in darker varieties of /l/. This contrast has been attributed to differences in closure fronting and front cavity configuration. This study proposes a possible alternative explanation for higher F3 in dark /l/, based on sensitivity functions.</p>
 </div>
 
