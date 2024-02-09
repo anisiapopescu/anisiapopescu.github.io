@@ -19,8 +19,10 @@ More details here: [abstract](Popescu_etal2022_Labphon18.pdf){:target="_blank"}
 
 <div style="display: flex; align-items: center;">
     <img src="https://raw.githubusercontent.com/anisiapopescu/anisiapopescu.github.io/master/coord.jpg" alt="Your Image" style="width: 50%; margin-right: 20px;">
-    <p>In American English rimes involving liquids exhibit coordination patterns reserved for onsets. One explanation for this divergent behavior is the complex gestural composition of the coda liquids. The present paper investigates the relationship between lateral consonant darkness and coda coordination patterns in Georgian, Romanian, Russian and American English. (submitted).</p>
+    <p>In American English rimes involving liquids exhibit coordination patterns reserved for onsets. One explanation for this divergent behavior is the complex gestural composition of the coda liquids. The present paper investigates the relationship between lateral consonant darkness and coda coordination patterns in Georgian, Romanian, Russian and American English.</p>
 </div>
+
+More details here: [abstract](Popescu&Chitoran_ISSP2024.pdf){:target="_blank"}
 
 ## Sesquisyllables
 
