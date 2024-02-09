@@ -14,3 +14,4 @@ through metalinguistic skills such as reading proficiency.</p>
 </div>
 
 
+See my CV in [English](Anisia Popescu_CVEN_FEV24.pdf){:target="_blank"} and [French](ANISIA POPESCU_CVFR_Fev2024.pdf){:target="_blank"}
