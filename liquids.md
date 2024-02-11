@@ -11,7 +11,7 @@ layout: page
 </div>
 
 
-More details here: [abstract](Popescu_etal2022_Labphon18.pdf){:target="_blank"}
+More details here: [abstract](Popescu_etal2022_Labphon18.pdf){:target="_blank"}, [poster presentation](LabPhon18_Paper123.mp4){:target="_blank"}
 
 
 
