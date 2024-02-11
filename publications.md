@@ -26,3 +26,5 @@ large-scale corpora, Proceeding of the 20th International Congress of Phonetic S
 **Manuscripts in the pipeline**
 1. Anisia Popescu, Lori Lamel, Ioana Vasilescu. The complexity of non-canonical voicing in Romance languages : testing the Aerodynamic Voicing Constraint using large scale automatic alignment with pronunciation variants (submitted)
 2. Elina Rubertus, Anisia Popescu & Aude Noiray. Phonemic blending fluency is reflected in the temporary organization of speech gestures – evidence from beginner and proficient readers (under revision)
+
+Click [here](Refereed_Conference_Presentations.pdf) for a full list of Refereed Conference Papers. 
