@@ -11,7 +11,7 @@ layout: page
 </div>
 
 
-More details here: [abstract](Popescu_etal2022_Labphon18.pdf){:target="_blank"}, [poster presentation](LabPhon18_Paper123.mp4){:target="_blank"}
+More details here: [LabPhon18 abstract](Popescu_etal2022_Labphon18.pdf){:target="_blank"}, [LabPhon18 poster presentation](LabPhon18_Paper123.mp4){:target="_blank"}
 
 
 
@@ -40,5 +40,5 @@ More details here: [Popescu, 2019](CLS54_Proceedings.pdf){:target="_blank"}, [Po
     <p>American English exhibits two lateral allophones: clear /l/ in onset position and dark /l/ in coda position. F3 is known to show higher values in darker varieties of /l/. This contrast has been attributed to differences in closure fronting and front cavity configuration. This study proposes a possible alternative explanation for higher F3 in dark /l/, based on sensitivity functions.</p>
 </div>
 
-More details here: [poster](ASA_F3_poster.pdf){:target="_blank"}
+More details here: [Joint ASA & ASJ Meeting 2016 poster](ASA_F3_poster.pdf){:target="_blank"}
 
