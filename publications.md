@@ -13,7 +13,7 @@ layout: page
 3. Aude Noiray \*, Anisia Popescu \*, Helene Killmer, Elina Rubertus, Stella Kruger & Lisa Hintermeier, (2019), Spoken Language Development and the Chanllenge of Skill Integration. Frontiers in Psychology - Language Sciences, 10.  [Noiray, Popescu et al., 2019](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02777/full)
 (* = joint first authorship)
 
-**In the pipeline **
+**In the pipeline**
 1. Anisia Popescu & Ioana Chitoran. A dynamic acoustic account of onset and coda laterals in Russian, English, Georgian and Romanian. (submitted)
 2. Elina Rubertus, Anisia Popescu & Aude Noiray. Seriality in Word Reading: Kinematic Insights in Beginning And Proficient Readers (first round of revisions)
 
