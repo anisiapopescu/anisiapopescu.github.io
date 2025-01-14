@@ -23,7 +23,8 @@ More details here: [Popescu et al., 2023](Popescu_etal_ICPhS2023.pdf){:target="_
 (EP, Italian, German) acoustic phone models on large EP corpora, allowing an ASR system to choose the best fitting one when force aligning the data. </p>
 </div>
 
-More details here: [preprint Popescu,Lamel & Vasilescu, 2023](Popescu_Lamel_Vasilescu_ICNLSP2023.pdf){:target="_blank"}
+More details here: [Popescu,Lamel & Vasilescu, 2023](https://aclanthology.org/2023.icnlsp-1.24/){:target="_blank"}, [Popescu, Lamel & Vasilescu, 2024](https://aclanthology.org/2024.lrec-main.1503/) 
+
 
 
 
