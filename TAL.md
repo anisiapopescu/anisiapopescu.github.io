@@ -12,7 +12,7 @@ layout: page
 corpora and automatic alignment with pronunciation variants.</p>
 </div>
 
-More details here: [Popescu et al., 2023](Popescu_etal_ICPhS2023.pdf){:target="_blank"}
+More details here: [Popescu et al., 2023](https://hal.science/hal-04451524/document){:target="_blank"}
 
 
 ## Phonetic typology
