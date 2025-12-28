@@ -8,14 +8,13 @@ layout: page
 ### Refereed Publications
 
 **Journal Articles**
-1. Elina Rubertus, Anisia Popescu & Aude Noiray. (2025). Seriality in Word Reading: Kinematic Insights in Beginning And Proficient Readers. Journal of Experimental Psychology: Learning, Memory, and Cognition. https://dx.doi.org/10.1037/xlm0001513 [Rubertus, Popescu & Noiray, 2025](https://www.researchgate.net/publication/393379608_Seriality_in_word_reading_Kinematic_insights_into_beginning_and_proficient_readers)
-2. Anisia Popescu & Ioana Chitoran. (2022). Linking gestural representations to syllable count judgments: A cross-language test. Laboratory Phonology, 13(1). [Popescu & Chitoran, 2022](https://www.journal-labphon.org/article/id/7681/)
-3. Anisia Popescu & Aude Noiray. (2021). Learning to read interacts with Children's spoken Language Fluency. Language Learning and Development. [Popescu & Noiray, 2021](https://www.tandfonline.com/doi/full/10.1080/15475441.2021.1941032) Peter Jusczyk Best Paper Award
-4. Aude Noiray \*, Anisia Popescu \*, Helene Killmer, Elina Rubertus, Stella Kruger & Lisa Hintermeier, (2019), Spoken Language Development and the Chanllenge of Skill Integration. Frontiers in Psychology - Language Sciences, 10.  [Noiray, Popescu et al., 2019](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02777/full)
+1. Anisia Popescu & Ioana Chitoran. A dynamic acoustic account of onset and coda laterals in four languages. accepted JIPA
+2. Elina Rubertus, Anisia Popescu & Aude Noiray. (2025). Seriality in Word Reading: Kinematic Insights in Beginning And Proficient Readers. Journal of Experimental Psychology: Learning, Memory, and Cognition. https://dx.doi.org/10.1037/xlm0001513 [Rubertus, Popescu & Noiray, 2025](https://www.researchgate.net/publication/393379608_Seriality_in_word_reading_Kinematic_insights_into_beginning_and_proficient_readers)
+3. Anisia Popescu & Ioana Chitoran. (2022). Linking gestural representations to syllable count judgments: A cross-language test. Laboratory Phonology, 13(1). [Popescu & Chitoran, 2022](https://www.journal-labphon.org/article/id/7681/)
+4. Anisia Popescu & Aude Noiray. (2021). Learning to read interacts with Children's spoken Language Fluency. Language Learning and Development. [Popescu & Noiray, 2021](https://www.tandfonline.com/doi/full/10.1080/15475441.2021.1941032) Peter Jusczyk Best Paper Award
+5. Aude Noiray \*, Anisia Popescu \*, Helene Killmer, Elina Rubertus, Stella Kruger & Lisa Hintermeier, (2019), Spoken Language Development and the Chanllenge of Skill Integration. Frontiers in Psychology - Language Sciences, 10.  [Noiray, Popescu et al., 2019](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02777/full)
 (* = joint first authorship)
 
-**In the pipeline**
-1. Anisia Popescu & Ioana Chitoran. A dynamic acoustic account of onset and coda laterals in Russian, English, Georgian and Romanian. (submitted)
 
 **Conference Proceedings**
 1. Anisia Popescu, Lori Lamel, Marc Evrard & Ioana Vasilescu. (2025). Tracking /r/ Deletion: Forced Alignment of Pronunciation Variants and Sociophonetic Insights into Post-Obstruent Final /r/ in French. INTERSPEECH 2025. accepted
