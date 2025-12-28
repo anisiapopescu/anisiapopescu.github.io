@@ -8,7 +8,7 @@ layout: page
 ### Refereed Publications
 
 **Journal Articles**
-1. Elina Rubertus, Anisia Popescu & Aude Noiray. Seriality in Word Reading: Kinematic Insights in Beginning And Proficient Readers, Journal of Experimental Psychology: Learning, Memory, and Cognition, accepted
+1. Elina Rubertus, Anisia Popescu & Aude Noiray. (2025). Seriality in Word Reading: Kinematic Insights in Beginning And Proficient Readers. Journal of Experimental Psychology: Learning, Memory, and Cognition. https://dx.doi.org/10.1037/xlm0001513 [Rubertus, Popescu & Noiray, 2025](https://www.researchgate.net/publication/393379608_Seriality_in_word_reading_Kinematic_insights_into_beginning_and_proficient_readers)
 2. Anisia Popescu & Ioana Chitoran. (2022). Linking gestural representations to syllable count judgments: A cross-language test. Laboratory Phonology, 13(1). [Popescu & Chitoran, 2022](https://www.journal-labphon.org/article/id/7681/)
 3. Anisia Popescu & Aude Noiray. (2021). Learning to read interacts with Children's spoken Language Fluency. Language Learning and Development. [Popescu & Noiray, 2021](https://www.tandfonline.com/doi/full/10.1080/15475441.2021.1941032) Peter Jusczyk Best Paper Award
 4. Aude Noiray \*, Anisia Popescu \*, Helene Killmer, Elina Rubertus, Stella Kruger & Lisa Hintermeier, (2019), Spoken Language Development and the Chanllenge of Skill Integration. Frontiers in Psychology - Language Sciences, 10.  [Noiray, Popescu et al., 2019](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02777/full)
