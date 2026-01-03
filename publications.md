@@ -36,7 +36,7 @@ large-scale corpora, Proceeding of the 20th International Congress of Phonetic S
 **Book Chapters**
 1. Olivier Augereau, Anisia Popescu, Sofiya Kobylyanskaya, Motoi Iwata. AI-Driven Approaches to Knowledge Acquisition and Skill Mastery: an Application 
 To Second-Language Learning. (Chapter 3). In Andrew Vargo, Koichi Kise, Andreas Dengel, Laurence Devilllers editors. The Future of Education with AI. Forthcoming 
-Shonan Book Series, Springer (accepted, to appear)
+Shonan Book Series, Springer [link](https://link.springer.com/chapter/10.1007/978-981-95-1622-3_3)
 
 
 Click [here](Refereed_Conference_Presentations.pdf) for a full list of Refereed Conference Papers. 
