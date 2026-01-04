@@ -1,6 +1,6 @@
 title: "Anisia Popescu"
 author: "Anisia Popescu"
-description: "LISN, Université Paris Saclay"
+description: "TransCrit, Université Paris 8"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -24,7 +24,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:anisiapopescu358@gmail.com"}
+  - {title: Mail, icon: envelope, url: "mailto:anisia.popescu@univ-paris8.fr"}
   - {title: Github, icon: github, url: "https://github.com/anisiapopescu"}
 
 comments:
