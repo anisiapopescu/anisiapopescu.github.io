@@ -17,26 +17,26 @@ layout: page
 
 
 **Conference Proceedings**
-1. Anisia Popescu, Lori Lamel, Marc Evrard & Ioana Vasilescu. (2025). Tracking /r/ Deletion: Forced Alignment of Pronunciation Variants and Sociophonetic Insights into Post-Obstruent Final /r/ in French. INTERSPEECH 2025. accepted
-2. Anisia Popescu, Lori Lamel, Ioana Vasilescu & Laurence Devillers. (2024). Automatic Speech Recognition with parallel L1 and L2 Acoustic phone models to evaluate /l/ allophony in L2 English Speech production, INTERSPEECH 2024. [Popescu et al., 2024](https://www.isca-archive.org/interspeech_2024/popescu24_interspeech.html)
-3. Anisia Popescu, Elina Rubertus & Aude Noiray. (2024). Variation in the temporal extent of anticipatory coarticulation across three speech modalities in children: an ultrasound study. In I. Wilson, A. Mizoguchi, J. Perkins, J. Villegas, & N. Yamane (Eds.) Ultrafest XI: Extended Abstracts. p. 136-139. [link](https://doi.org/10.5281/zenodo.12578650) 
-4. Elina Rubertus, Anisia Popescu & Aude Noiray. (2024). Ultrasound imaging can track subtle reading disfluencies: Insights from reading children and adults. In I. Wilson, A. Mizoguchi, J. Perkins, J. Villegas, & N. Yamane (Eds.) Ultrafest XI: Extended Abstracts. p. 151-154. [link](https://doi.org/10.5281/zenodo.12578650) 
-5. Anisia Popescu & Ioana Chitoran. (2024). Laterals in simplex vs. complex syllable codas: a comparison of four languages. Proceedings of the 13th International Seminar of Speech Production (ISSP 2024). p. 47-50. [Popescu & Chitoran, 2024](https://www.isca-archive.org/issp_2024/popescu24_issp.pdf).
-6. Anisia Popescu, Lori Lamel & Ioana Vasilescu. (2023). Using Speech Technology to test Theories of Phonetic and Phonological Typology. LREC-COLING2024, p.17321–17325.
+1. Anisia Popescu \*, Serban Din \* & Marinela Axinte. (2026). lisero: An interactive practice app for learning Romanian Sign Language. Interspeech 2026. Show & Tell Track. accepted
+2. Anisia Popescu \*, Johanna Cronenberg \*, Ioana Vasilescu, Ioana Chitoran, Lori Lamel & Martine Adda-Decker. (2026). The Added Value of Metadata and Annotations: Evidence from Two Large-Scale, Naturalistic Corpus Studies. LREC2026. [Popescu, Cronenberg et al., 2026](https://lrec.elra.info/lrec2026-main-455)
+3. Anisia Popescu, Lori Lamel, Marc Evrard & Ioana Vasilescu. (2025). Tracking /r/ Deletion: Forced Alignment of Pronunciation Variants and Sociophonetic Insights into Post-Obstruent Final /r/ in French. INTERSPEECH 2025. [Popescu et al., 2025](https://www.isca-archive.org/interspeech_2025/popescu25_interspeech.pdf )
+4. Anisia Popescu, Lori Lamel, Ioana Vasilescu & Laurence Devillers. (2024). Automatic Speech Recognition with parallel L1 and L2 Acoustic phone models to evaluate /l/ allophony in L2 English Speech production, INTERSPEECH 2024. [Popescu et al., 2024](https://www.isca-archive.org/interspeech_2024/popescu24_interspeech.html)
+5. Anisia Popescu, Elina Rubertus & Aude Noiray. (2024). Variation in the temporal extent of anticipatory coarticulation across three speech modalities in children: an ultrasound study. In I. Wilson, A. Mizoguchi, J. Perkins, J. Villegas, & N. Yamane (Eds.) Ultrafest XI: Extended Abstracts. p. 136-139. [link](https://doi.org/10.5281/zenodo.12578650) 
+6. Elina Rubertus, Anisia Popescu & Aude Noiray. (2024). Ultrasound imaging can track subtle reading disfluencies: Insights from reading children and adults. In I. Wilson, A. Mizoguchi, J. Perkins, J. Villegas, & N. Yamane (Eds.) Ultrafest XI: Extended Abstracts. p. 151-154. [link](https://doi.org/10.5281/zenodo.12578650) 
+7. Anisia Popescu & Ioana Chitoran. (2024). Laterals in simplex vs. complex syllable codas: a comparison of four languages. Proceedings of the 13th International Seminar of Speech Production (ISSP 2024). p. 47-50. [Popescu & Chitoran, 2024](https://www.isca-archive.org/issp_2024/popescu24_issp.pdf).
+8. Anisia Popescu, Lori Lamel & Ioana Vasilescu. (2023). Using Speech Technology to test Theories of Phonetic and Phonological Typology. LREC-COLING2024, p.17321–17325.
  [Popescu, Lamel & Vasilescu, 2023](https://aclanthology.org/2024.lrec-main.1503/)
-7. Anisia Popescu, Lori Lamel & Ioana Vasilescu. (2023). Typological classification of European Portuguese fricatives : a cross-
+9. Anisia Popescu, Lori Lamel & Ioana Vasilescu. (2023). Typological classification of European Portuguese fricatives : a cross-
 language forced alignment and pronunciation variants study. Proceedings of 6th International Conference on Natural Language and Speech Processing. p.239-242. [Popescu, Lamel & Vasilescu, 2023](https://aclanthology.org/2023.icnlsp-1.24/) 
-8. Anisia Popescu, Mathilde Hutin, Ioana Vasilescu, Lori Lamel & Marine Adda-Decker. (2023). Stop devoicing and place of articulation : a cross-linguistic study using 
+10. Anisia Popescu, Mathilde Hutin, Ioana Vasilescu, Lori Lamel & Marine Adda-Decker. (2023). Stop devoicing and place of articulation : a cross-linguistic study using 
 large-scale corpora, Proceeding of the 20th International Congress of Phonetic Sciences. [Popescu et al., 2023](https://hal.science/hal-04451524/document)
-9. Anisia Popescu. (2019). Syllable-count judgments: relating gestural composition and syllable weight, Proceedings of the 54th Annual Meeting of the Chicago Linguistics Society; 425-434; Eszter Ronai, Laura Stigliano and Yenan Sun (eds.). [Popescu, 2018](CLS54_Proceedings.pdf)
-10. Anisia Popescu & Ioana Chitoran, (2018), Jugements sur le nombre de syllabes et coordination temporelle des gestes articulatoires, 32e Journées d’étude sur la parole (JEP2018) [Popescu & Chitoran, 2018](https://hal.science/hal-04451627/document) 
-11. Anisia Popescu & Ioana Chitoran, (2016), Allophonie et positions dans la syllabe: Le cas des consonnes latérales, JEP-TALN-RECITAL2016 
+11. Anisia Popescu. (2019). Syllable-count judgments: relating gestural composition and syllable weight, Proceedings of the 54th Annual Meeting of the Chicago Linguistics Society; 425-434; Eszter Ronai, Laura Stigliano and Yenan Sun (eds.). [Popescu, 2018](CLS54_Proceedings.pdf)
+12. Anisia Popescu & Ioana Chitoran, (2018), Jugements sur le nombre de syllabes et coordination temporelle des gestes articulatoires, 32e Journées d’étude sur la parole (JEP2018) [Popescu & Chitoran, 2018](https://hal.science/hal-04451627/document) 
+13. Anisia Popescu & Ioana Chitoran, (2016), Allophonie et positions dans la syllabe: Le cas des consonnes latérales, JEP-TALN-RECITAL2016 
 [Popescu & Chitoran, 2016](https://aclanthology.org/2016.jeptalnrecital-jep.7/)
 
 **Book Chapters**
-1. Olivier Augereau, Anisia Popescu, Sofiya Kobylyanskaya, Motoi Iwata. AI-Driven Approaches to Knowledge Acquisition and Skill Mastery: an Application 
-To Second-Language Learning. (Chapter 3). In Andrew Vargo, Koichi Kise, Andreas Dengel, Laurence Devilllers editors. The Future of Education with AI. Forthcoming 
-Shonan Book Series, Springer [link](https://link.springer.com/chapter/10.1007/978-981-95-1622-3_3)
+1. Olivier Augereau, Anisia Popescu, Sofiya Kobylyanskaya, Motoi Iwata. (2026). AI-Driven Approaches to Knowledge Acquisition and Skill Mastery: An Application to Second-Language Learning. In: Dengel, A., Devillers, L., Kise, K., Vargo, A. (eds) The Future of Education with AI. Springer, Singapore. [Augereau et al., 2026](https://doi.org/10.1007/978-981-95-1622-3_3)
 
 
 Click [here](Refereed_Conference_Presentations.pdf) for a full list of Refereed Conference Papers. 
