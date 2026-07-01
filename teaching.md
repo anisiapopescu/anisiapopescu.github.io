@@ -4,13 +4,29 @@ permalink: "/teaching/"
 layout: page
 ---
 
+# Current Teaching
 
-# Primary Instructor
+**Phonétique et Phonologie**
+- Université of Paris 8
+- undergraduate level
+
+**Phonétique expérimentale et sociophonétique**
+- Université of Paris 8
+- graduate level
+
+**Production et compréhension orale 1, 2 & 3**
+- Université of Paris 8
+- undergraduate level
+
+**Introduction à la Linguistique**
+- Université of Paris 8
+- undergraduate level
+
+# Previous Teaching
 
 **Language Acquistion**
 - Université Paris Cité (former Paris Diderot)
 - graduate level, Spring 2023
-
 
 **Morphologie et Syntaxe du Français Langue Etrangère**
 - Université Paris Cité (former Paris Diderot)
@@ -23,8 +39,6 @@ layout: page
 **Langues dans le Monde (Language Typology)**
 - Université Paris Cité (former Paris Diderot)
 - undergrad level, Spring 2014, 2015
-
-# Teaching Assistant
 
 **Phonology**
 - Université Paris Cité (former Paris Diderot)
