@@ -4,46 +4,37 @@ permalink: "/teaching/"
 layout: page
 ---
 
-# Current Teaching
+# Current Teaching - Université Paris 8 
 
 **Phonétique et Phonologie**
-- Université of Paris 8
 - undergraduate level
 
 **Phonétique expérimentale et sociophonétique**
-- Université of Paris 8
 - graduate level
 
-**Production et compréhension orale 1, 2 & 3**
-- Université of Paris 8
-- undergraduate level
-
-**Introduction à la Linguistique**
-- Université of Paris 8
-- undergraduate level
+**Production et compréhension orale**
+- undergraduate level 
 
 # Previous Teaching
 
+**Introduction to Linguistics**
+- undergraduate level, Fall 2025; Université Paris 8
+
 **Language Acquistion**
-- Université Paris Cité (former Paris Diderot)
-- graduate level, Spring 2023
+- graduate level, Spring 2023; Université Paris Cité 
 
 **Morphologie et Syntaxe du Français Langue Etrangère**
-- Université Paris Cité (former Paris Diderot)
-- undergrad level, Spring 2023
+- undergrad level, Spring 2023; Université Paris Cité 
 
 **Humanités Numériques – Digital Humanities**
-- Université Sorbonne Nouvelle, ENEAD
-- online class, Fall 2022, Spring 2023
+- online class, Fall 2022, Spring 2023; Université Sorbonne Nouvelle, ENEAD
 
 **Langues dans le Monde (Language Typology)**
-- Université Paris Cité (former Paris Diderot)
-- undergrad level, Spring 2014, 2015
+- undergraduate level, Spring 2014, 2015; Université Paris Cité
 
 **Phonology**
-- Université Paris Cité (former Paris Diderot)
-- graduate level, Fall 2017
+- graduate level, Fall 2017; Université Paris Cité
 
 **Initiation à la Linguistique générale**
-- Université Paris Cité (former Paris Diderot)
-- undergrad level, Fall 2014, 2015, 2017
+- undergrad level, Fall 2014, 2015, 2017; Université Paris Cité
+
