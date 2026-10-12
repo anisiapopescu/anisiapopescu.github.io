@@ -4,7 +4,7 @@ layout: page
 permalink: /grasp/
 ---
 
-# Projet ANR – GRASP
+# GRASP: Gestural Representation and Acquisition of inter and intra-Segmental timing Patterns
 
 **Funding awarded** · **Starting January 2027**
 
