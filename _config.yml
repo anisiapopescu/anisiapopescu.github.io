@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:
   - {file: "index.md", title: "Home"}
   - {file: "publications.md", title: "Publications"}
-  - {file: "projects.md", title: "Projects"}
+  - {file: "projects.md", title: "Research"}
   - {file: "grasp.md", title: "Projet ANR – GRASP"}
   - {file: "teaching.md", title: "Teaching"}
   - {title: "CV", url: "/assets/documents/cv/AnisiaPopescu_CVEN_JAN2025.pdf"}
