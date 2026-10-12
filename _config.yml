@@ -19,7 +19,7 @@ navigation:
   - {file: "index.md", title: "Home"}
   - {file: "publications.md", title: "Publications"}
   - {file: "projects.md", title: "Projects"}
-   - {file: "grasp.md", title: "Projet ANR – GRASP"}
+  - {file: "grasp.md", title: "Projet ANR – GRASP"}
   - {file: "teaching.md", title: "Teaching"}
   - {title: "CV", url: "/assets/documents/cv/AnisiaPopescu_CVEN_JAN2025.pdf"}
 
