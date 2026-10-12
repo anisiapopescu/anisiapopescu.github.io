@@ -12,13 +12,13 @@ layout: page
 
 <p><strong>Scan the QR code below to download lisero, available on iOS and Android!</strong></p>
 
-<img src="{{ '/assets/images/projects/lisero-QR.png' | relative_url }}"
+<img src="{{ '/assets/images/projects/lisero_QR.png' | relative_url }}"
      alt="QR code to download the lisero app"
      style="max-width: 220px; width: 100%; height: auto; display: block; margin: 20px 0 30px;">
 
 <h3>lisero at Interspeech Show &amp; Tell</h3>
 
-<p>We presented <strong>lisero</strong> at the <strong>Interspeech Show &amp; Tell</strong> session, showcasing the application and its potential for supporting Romanian Sign Language learning through digital technology.</p>
+<p>We presented <strong>lisero</strong> at the <strong>Interspeech Show &amp; Tell</strong> session, showcasing the application and its potential for supporting Romanian Sign Language learning through digital technology. Check out our paper: [Popescu, Din & Axinte](https://www.isca-archive.org/interspeech_2026/popescu26_interspeech.pdf)</p>
 
 <p>The presentation offered an opportunity to share our work with the speech research community and highlight the role of accessible, technology-supported language learning tools.</p>
 
