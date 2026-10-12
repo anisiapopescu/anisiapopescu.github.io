@@ -1,0 +1,35 @@
+title: "Anisia Popescu"
+author: "Anisia Popescu"
+description: "TransCrit, Université Paris 8"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
+# Layout
+
+show_excerpts: true        # show article excerpts on the home page
+show_frame: true           # adds a gray frame to the site
+show_sidebar: true       # show a sidebar instead of the usual header
+minimal: false             # use a dark header
+
+# Menu
+
+navigation:
+  - {file: "index.md", title: "Home"}
+  - {file: "publications.md", title: "Publications"}
+  - {file: "projects.md", title: "Projects"}
+  - {file: "teaching.md", title: "Teaching"}
+  - {title: "CV", url: "/assets/documents/cv/AnisiaPopescu_CVEN_JAN2025.pdf"}
+
+
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:anisia.popescu@univ-paris8.fr"}
+ # - {title: Github, icon: github, url: "https://github.com/anisiapopescu"}
+
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
+
+plugins:
+ - jekyll-feed
