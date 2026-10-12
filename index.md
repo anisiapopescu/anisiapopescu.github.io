@@ -6,9 +6,7 @@ layout: page
 
 
 <div class="research-media">
-     <p>I have been Maître de Conférences (Associate Professor) in English phonetics and phonology at Université Paris 8 Vincennes Saint Denis since the start of this academic year (2025/26). My research uses a synergistic approach between laboratory phonology, speech technology and natural language processing to investigate the nature of speech production and cognitive representation units. I focus on the timing of gestural coordination patterns,
-acoustic-articulatory relations and the cognitive representation of phonological and prosodic units. From a developmental perspective, I am interested in speech production in children, specifically how speech production interacts with segmental representation 
-through metalinguistic skills such as reading proficiency.</p>
+     <p>I am an Associate Professor (<em>Maître de Conférences</em>) in English Phonetics and Phonology at Université Paris 8 Vincennes Saint Denis since September 2025.</p><p>My research is grounded in <strong>Laboratory Phonology</strong>, exploring how articulatory gestures are produced, coordinated, and cognitively represented, and how they relate to the acoustic speech signal. I am particularly interested in how phonological representations are acquired and shaped by language experience, from the development of speech patterns in children and their differences from those of adults to the adaptation and integration of new phonological patterns during second language acquisitio. I also explore the role of literacy acquisition in shaping these representations.</p><p>My work combines <strong>experimental phonetics, speech technology and natural language processing</strong>. I am also involved in developing digital tools for language learning, including [lisero](https://play.google.com/store/apps/details?id=ro.farmecultacerii.lisero&hl=fr), an app for learning Romanian Sign Language (LSR) developed in collaboration with [Fundația CODA Farmecul Tacerii](https://farmecultacerii.ro/).</p>
     <img src="{{ "/assets/images/profile/poster.jpg" | relative_url }}" alt="Research illustration">
 </div>
 
