@@ -33,7 +33,7 @@ comments:
 #  isso_domain: ""         # see https://posativ.org/isso/
 
 url: "https://anisiapopescu.github.io"
-baseurl: "/personal-website-refined"
+baseurl: ""
 
 plugins:
  - jekyll-feed
