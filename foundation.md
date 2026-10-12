@@ -18,7 +18,8 @@ layout: page
 
 <h3>lisero at Interspeech Show &amp; Tell</h3>
 
-<p>We presented <strong>lisero</strong> at the <strong>Interspeech Show &amp; Tell</strong> session, showcasing the application and its potential for supporting Romanian Sign Language learning through digital technology. Check out our paper: [Popescu, Din & Axinte](https://www.isca-archive.org/interspeech_2026/popescu26_interspeech.pdf)</p>
+<p>We presented <strong>lisero</strong> at the <strong>Interspeech Show &amp; Tell</strong> session, showcasing the application and its potential for supporting Romanian Sign Language learning through digital technology. Check out our paper: <a href="https://www.isca-archive.org/interspeech_2026/popescu26_interspeech.pdf"
+   target="_blank" rel="noopener noreferrer">Popescu, Din &amp; Axinte</a>.</p>
 
 <p>The presentation offered an opportunity to share our work with the speech research community and highlight the role of accessible, technology-supported language learning tools.</p>
 
