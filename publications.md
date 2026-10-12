@@ -8,8 +8,8 @@ layout: page
 ### Refereed Publications
 
 **Journal Articles**
-1. Anisia Popescu & Ioana Chitoran. A dynamic acoustic account of onset and coda laterals in four languages. accepted JIPA
-2. Elina Rubertus, Anisia Popescu & Aude Noiray. (2025). Seriality in Word Reading: Kinematic Insights in Beginning And Proficient Readers. Journal of Experimental Psychology: Learning, Memory, and Cognition. https://dx.doi.org/10.1037/xlm0001513 [Rubertus, Popescu & Noiray, 2025](https://www.researchgate.net/publication/393379608_Seriality_in_word_reading_Kinematic_insights_into_beginning_and_proficient_readers)
+1. Anisia Popescu & Ioana Chitoran. A dynamic acoustic account of onset and coda laterals in four languages. [Popescu & Chitoran, 2026](https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association/article/dynamic-acoustic-account-of-onset-and-coda-laterals-in-four-languages/8668486EF424B6D4D242F88FCA0C5033)
+2. Elina Rubertus, Anisia Popescu & Aude Noiray. (2025). Seriality in Word Reading: Kinematic Insights in Beginning And Proficient Readers. Journal of Experimental Psychology: Learning, Memory, and Cognition. https://dx.doi.org/10.1037/xlm0001513 [Rubertus, Popescu & Noiray, 2025](https://hal.science/hal-05147642v1/document)
 3. Anisia Popescu & Ioana Chitoran. (2022). Linking gestural representations to syllable count judgments: A cross-language test. Laboratory Phonology, 13(1). [Popescu & Chitoran, 2022](https://www.journal-labphon.org/article/id/7681/)
 4. Anisia Popescu & Aude Noiray. (2021). Learning to read interacts with Children's spoken Language Fluency. Language Learning and Development. [Popescu & Noiray, 2021](https://www.tandfonline.com/doi/full/10.1080/15475441.2021.1941032) Peter Jusczyk Best Paper Award
 5. Aude Noiray \*, Anisia Popescu \*, Helene Killmer, Elina Rubertus, Stella Kruger & Lisa Hintermeier, (2019), Spoken Language Development and the Chanllenge of Skill Integration. Frontiers in Psychology - Language Sciences, 10.  [Noiray, Popescu et al., 2019](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02777/full)
@@ -17,7 +17,7 @@ layout: page
 
 
 **Conference Proceedings**
-1. Anisia Popescu \*, Serban Din \* & Marinela Axinte. (2026). lisero: An interactive practice app for learning Romanian Sign Language. Interspeech 2026. Show & Tell Track. accepted
+1. Anisia Popescu \*, Serban Din \* & Marinela Axinte. (2026). lisero: An interactive practice app for learning Romanian Sign Language. Interspeech 2026. Show & Tell Track. [Popescu, Din & Axinte](https://www.isca-archive.org/interspeech_2026/popescu26_interspeech.pdf)
 2. Anisia Popescu \*, Johanna Cronenberg \*, Ioana Vasilescu, Ioana Chitoran, Lori Lamel & Martine Adda-Decker. (2026). The Added Value of Metadata and Annotations: Evidence from Two Large-Scale, Naturalistic Corpus Studies. LREC2026. [Popescu, Cronenberg et al., 2026](https://lrec.elra.info/lrec2026-main-455)
 3. Anisia Popescu, Lori Lamel, Marc Evrard & Ioana Vasilescu. (2025). Tracking /r/ Deletion: Forced Alignment of Pronunciation Variants and Sociophonetic Insights into Post-Obstruent Final /r/ in French. INTERSPEECH 2025. [Popescu et al., 2025](https://www.isca-archive.org/interspeech_2025/popescu25_interspeech.pdf )
 4. Anisia Popescu, Lori Lamel, Ioana Vasilescu & Laurence Devillers. (2024). Automatic Speech Recognition with parallel L1 and L2 Acoustic phone models to evaluate /l/ allophony in L2 English Speech production, INTERSPEECH 2024. [Popescu et al., 2024](https://www.isca-archive.org/interspeech_2024/popescu24_interspeech.html)
