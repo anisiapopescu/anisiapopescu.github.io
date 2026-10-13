@@ -8,9 +8,11 @@ layout: page
 ### Journal Articles
 
 **A dynamic acoustic account of onset and coda laterals in four languages**
+
 Anisia Popescu & Ioana Chitoran. (2026). A dynamic acoustic account of onset and coda laterals in four languages. Journal of the International Phonetic Association. 2026;56:e17. doi:10.1017/S0025100325100868 [Popescu & Chitoran, 2026](https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association/article/dynamic-acoustic-account-of-onset-and-coda-laterals-in-four-languages/8668486EF424B6D4D242F88FCA0C5033)
 
 **Seriality in Word Reading: Kinematic Insights in Beginning And Proficient Readers**
+
 Elina Rubertus, Anisia Popescu & Aude Noiray. (2025). Seriality in Word Reading: Kinematic Insights in Beginning And Proficient Readers. Journal of Experimental Psychology: Learning, Memory, and Cognition. https://dx.doi.org/10.1037/xlm0001513 [Rubertus, Popescu & Noiray, 2025](https://hal.science/hal-05147642v1/document)
 
 **Linking gestural representations to syllable count judgments: A cross-language test**
