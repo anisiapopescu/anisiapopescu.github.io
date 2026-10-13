@@ -7,7 +7,7 @@ layout: page
 
 ### Journal Articles
 
-**A dynamic acoustic account of onset and coda laterals in four languages**
+<span style="color: #b46f65;">**A dynamic acoustic account of onset and coda laterals in four languages**</span>
 
 Anisia Popescu & Ioana Chitoran. (2026). A dynamic acoustic account of onset and coda laterals in four languages. Journal of the International Phonetic Association. 2026;56:e17. doi:10.1017/S0025100325100868 [Popescu & Chitoran, 2026](https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association/article/dynamic-acoustic-account-of-onset-and-coda-laterals-in-four-languages/8668486EF424B6D4D242F88FCA0C5033)
 
