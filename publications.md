@@ -82,7 +82,7 @@ Anisia Popescu & Ioana Chitoran, (2018), Jugements sur le nombre de syllabes et 
 
 <span style="color: #327a78;">**Allophonie et positions dans la syllabe: Le cas des consonnes latérale**</span>
 
-13. Anisia Popescu & Ioana Chitoran, (2016), Allophonie et positions dans la syllabe: Le cas des consonnes latérales. JEP-TALN-RECITAL2016 
+Anisia Popescu & Ioana Chitoran, (2016), Allophonie et positions dans la syllabe: Le cas des consonnes latérales. JEP-TALN-RECITAL2016 
 [Popescu & Chitoran, 2016](https://aclanthology.org/2016.jeptalnrecital-jep.7/)
 
 ### Book Chapters
